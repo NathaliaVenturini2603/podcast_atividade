@@ -1,0 +1,36 @@
+.itim-regular {
+    font-family: "Itim", serif;
+    font-weight: 400;
+    font-style: "Itim";
+  }
+
+  
+h1 {
+    color: rgb(95, 5, 66);
+}
+body{
+    text-align: center;
+}
+
+
+body {
+    background-color: rgb(224, 114, 152);
+}
+
+h2 {
+    color:rgb(255, 253, 253);
+}
+
+h3 {
+    color:rgb(255, 255, 255);
+}
+
+.logo{
+    height: 700px;
+    width: 100%;
+}
+
+.img3{
+    height: 950px;
+    width: 95%;
+}
