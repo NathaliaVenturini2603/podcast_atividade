@@ -7,6 +7,11 @@
   
 h1 {
     color: rgb(95, 5, 66);
+    font-size: 30px;
+    /* Tamanho da fonte */
+    margin-bottom: 5px;
+    font-weight: bold;
+    /* Grossura da fonte */
 }
 body{
     text-align: center;
@@ -14,15 +19,25 @@ body{
 
 
 body {
-    background-color: rgb(224, 114, 152);
+    background-color: rgb(244, 177, 201);
 }
 
 h2 {
     color:rgb(255, 253, 253);
+    font-size: 30px;
+    /* Tamanho da fonte */
+    margin-bottom: 5px;
+    font-weight: bold;
+    /* Grossura da fonte */
 }
 
 h3 {
-    color:rgb(255, 255, 255);
+    color:rgb(95, 5, 66);
+    font-size: 30px;
+    /* Tamanho da fonte */
+    margin-bottom: 5px;
+    font-weight: bold;
+    /* Grossura da fonte */
 }
 
 .logo{
@@ -33,4 +48,30 @@ h3 {
 .img3{
     height: 950px;
     width: 95%;
+}
+h4 {
+    color:rgb(255, 253, 253);
+    font-size: 30px;
+    /* Tamanho da fonte */
+    margin-bottom: 5px;
+    font-weight: bold;
+    /* Grossura da fonte */
+}
+
+h5 {
+    color:rgb(95, 5, 66);
+    font-size: 30px;
+    /* Tamanho da fonte */
+    margin-bottom: 5px;
+    font-weight: bold;
+    /* Grossura da fonte */
+}
+
+h6{
+    color:rgb(255, 253, 253);
+    font-size: 30px;
+    /* Tamanho da fonte */
+    margin-bottom: 5px;
+    font-weight: bold;
+    /* Grossura da fonte */
 }
