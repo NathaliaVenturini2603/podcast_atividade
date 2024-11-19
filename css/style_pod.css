@@ -75,3 +75,21 @@ h6{
     font-weight: bold;
     /* Grossura da fonte */
 }
+
+.img1{
+    height: 700px;
+    width: 60%;
+}
+.img3{
+height: 700px;
+    width: 60%;
+}
+.img5{
+    height: 700px;
+    width: 60%; 
+}
+.botao{
+    color: aliceblue;
+    background-color: black;
+   
+}
